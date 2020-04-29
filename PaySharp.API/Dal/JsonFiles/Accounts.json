@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1",
+    "AccountNumber": "1234567890",
+    "NickName": "Utilities",
+    "Balance": 10000,
+    "ClientId": 1
+  },
+  {
+    "Id": "2",
+    "AccountNumber": "1234567777",
+    "NickName": "Salary",
+    "Balance": 10000,
+    "ClientId": 2
+  }
+
+]
+  

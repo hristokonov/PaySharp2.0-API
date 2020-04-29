@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "1",
+    "UserName": "Admin",
+    "Password": "E23699CC202876928C132789A8FACC893E933EB0C2F4F165DA506EE42B2AACEC",
+    "RoleId": 1
+  },
+  {
+    "Id": "2",
+    "UserName": "Admin2",
+    "Password": "E23699CC202876928C132789A8FACC893E933EB0C2F4F165DA506EE42B2AACEC",
+    "RoleId": 1
+  }
+]

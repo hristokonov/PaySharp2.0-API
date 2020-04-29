@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "1",
+    "Name": "hristo.konov",
+    "UserName": "hristo.konov",
+    "Password": "E23699CC202876928C132789A8FACC893E933EB0C2F4F165DA506EE42B2AACEC",
+    "RoleId": 2
+  },
+  {
+    "Id": "2",
+    "Name": "Admin",
+    "UserName": "Admin",
+    "Password": "E23699CC202876928C132789A8FACC893E933EB0C2F4F165DA506EE42B2AACEC",
+    "RoleId": 2
+  }
+]

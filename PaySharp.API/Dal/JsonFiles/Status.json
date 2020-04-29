@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "StatusName": "Sent"
+  },
+  {
+    "Id": 2,
+    "StatusName": "Saved"
+  }
+]
